@@ -30,10 +30,39 @@ public class Loops {
             }
         */
 
-        int num = 1;
-        while (num <= 5){
-            System.out.println(num);
-            num++;
-        }
+//        int num = 1;
+//        while (num <= 5){
+//            System.out.println(num);
+//            num++;
+
+
+
+            /*
+            when know how many time loop going to run use---FOR LOOP
+
+            when don't know how many time loop is going to run --WHILE LOOP
+            */
+
+        //DO WHILE LOOP
+        /*
+            SYNTAX
+            initialisation
+            do {
+                \\body
+                increment
+            } while (condition);
+
+         */
+//        int num = 1;
+//        do{
+//            System.out.println(num);
+//            num++;
+//        } while (num<=5);
+        // in do while loop atleast once the loop is executed then it is checked wh=uth while.
+
+//        int num = 1;
+//        do {
+//            System.out.println("hello");
+//        } while (num != 1);
     }
 }
