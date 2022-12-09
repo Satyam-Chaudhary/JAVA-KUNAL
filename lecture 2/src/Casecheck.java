@@ -10,5 +10,15 @@ public class Casecheck {
         } else {
             System.out.println("uppercase");
         }
-    }
-}
+
+
+            }
+        }
+
+
+
+
+
+
+
+
